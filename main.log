@@ -1,0 +1,20 @@
+Name_function: hello_world
+Currente date and time: 30/01/2024 17/:28:20
+Arguments: () and {}
+Result: Hello World
+Name_function: summator
+Currente date and time: 30/01/2024 17/:28:20
+Arguments: (2, 2) and {}
+Result: 4
+Name_function: div
+Currente date and time: 30/01/2024 17/:28:20
+Arguments: (6, 2) and {}
+Result: 3.0
+Name_function: summator
+Currente date and time: 30/01/2024 17/:28:20
+Arguments: (4.3,) and {'b': 2.2}
+Result: 6.5
+Name_function: summator
+Currente date and time: 30/01/2024 17/:28:20
+Arguments: () and {'a': 0, 'b': 0}
+Result: 0
